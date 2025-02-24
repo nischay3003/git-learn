@@ -1,0 +1,1 @@
+    hello this  is another b.txt file in my temporary commit which is going to create a conflict for me
